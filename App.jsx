@@ -316,7 +316,7 @@ export default function App() {
 
                 <a
                   className="resume-nav-link"
-                  href="/resume.pdf"
+                  href="/Vibe_Resume.pdf"
                   target="_blank"
                   rel="noopener noreferrer"
                   aria-label="Open Vibe's resume PDF in a new tab"
