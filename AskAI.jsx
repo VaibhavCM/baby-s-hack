@@ -4,7 +4,7 @@ import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
 
 const API_URL =
-  import.meta.env.VITE_AI_API_URL || "http://localhost:3001";
+  import.meta.env.VITE_AI_API_URL || "https://vibe-ai-server-94qk.onrender.com";
 
 const welcomeMessage = {
   role: "assistant",
